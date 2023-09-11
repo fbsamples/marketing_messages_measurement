@@ -1,3 +1,8 @@
+Copyright (c) Meta Platforms, Inc. and affiliates.
+
+This source code is licensed under the MIT license found in the
+LICENSE file in the root directory of this source tree.
+
 # This project provides best practices on how to measure WhatsApp marketing
 # messages effectively, understand how many incremental conversions businesses can get 
 # as well as how to compare the effectiveness of marketing messages against other external 
