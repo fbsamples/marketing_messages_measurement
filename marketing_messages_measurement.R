@@ -249,7 +249,7 @@ delta = wa_sim_cpa / sms_sim_cpa -1
 
 deltaSummary = data.frame(
   avg_delta = mean(delta),
-  p.value = mean(delta > 0),
+  p.value = p_value,
   lwr = quantile(delta, 0.025),
   upr = quantile(delta, 0.975)
 )
